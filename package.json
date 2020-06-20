@@ -1,0 +1,24 @@
+{
+  "name": "react-form",
+  "version": "1.0.0",
+  "description": "A form component for React/Gatsby projects",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheeBryanWhite/react-form.git"
+  },
+  "author": "Bryan White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheeBryanWhite/react-form/issues"
+  },
+  "homepage": "https://github.com/TheeBryanWhite/react-form#readme"
+}
